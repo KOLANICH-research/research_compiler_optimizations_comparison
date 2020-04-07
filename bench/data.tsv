@@ -1,0 +1,57 @@
+arch	clang++	g++
+k8	.0855	.1142
+ivybridge	.0859	.1005
+bonnell	.0892	.1014
+bdver3	.1070	.0880
+corei7-avx	.1070	.0990
+athlon64-sse3	.1070	.1020
+opteron	.1070	.1020
+athlon64	.1070	.1030
+znver1	.1070	.1050
+slm	.1080	.1000
+corei7	.1080	.1010
+k8-sse3	.1080	.1030
+znver2	.1080	.1186
+barcelona	.1085	.0999
+core-avx2	.1090	.0990
+athlon-fx	.1090	.1010
+skylake-avx512	.1090	.1010
+x86-64	.1090	.1010
+haswell	.1090	.1020
+tremont	.1090	.1040
+nocona	.1100	.1000
+silvermont	.1100	.1000
+icelake-client	.1100	.1010
+knl	.1100	.1020
+core-avx-i	.1100	.1040
+goldmont	.1100	.1040
+nehalem	.1100	.1040
+btver2	.1100	.1050
+cannonlake	.1110	.1020
+broadwell	.1110	.1040
+btver1	.1110	.1060
+skylake	.1120	.1020
+amdfam10	.1130	.0994
+native	.1145	.1057
+bdver2	.1149	.0946
+opteron-sse3	.1152	.1053
+sandybridge	.1154	.1012
+cascadelake	.1155	.0861
+cooperlake	.1157	
+bdver4	.1160	.1060
+knm	.1166	.1043
+westmere	.1170	.1020
+goldmont-plus	.1170	
+icelake-server	.1180	.0897
+core2	.1180	.1020
+penryn	.1180	
+atom	.1181	.0993
+bdver1	.1181	.1029
+tigerlake	.1186	
+nano	.1200	.1159
+nano-2000		.0999
+nano-x2		.1002
+eden-x4		.1008
+nano-1000		.1044
+nano-3000		.1047
+nano-x4		.1047

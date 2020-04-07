@@ -1,0 +1,58 @@
+arch	clang++	g++
+nehalem	9.401	10.751
+bdver3	9.695	11.409
+skylake	9.785	10.576
+bdver1	9.934	11.352
+barcelona	9.948	10.599
+penryn	10.047	
+icelake-client	10.125	10.890
+bdver2	10.132	10.181
+znver1	10.194	10.642
+btver1	10.228	11.200
+athlon64	10.230	10.604
+corei7	10.461	10.015
+x86-64	10.502	12.997
+icelake-server	10.571	10.970
+btver2	10.640	11.163
+silvermont	10.652	11.872
+core2	10.661	11.172
+amdfam10	10.723	10.932
+k8-sse3	10.737	12.708
+haswell	10.769	11.457
+haswell	10.769	11.457
+westmere	10.786	12.733
+ivybridge	10.946	10.192
+corei7-avx	10.956	10.740
+opteron-sse3	10.983	10.765
+native	11.026	10.308
+k8	11.078	11.928
+skylake-avx512	11.149	11.463
+tigerlake	11.192	.000
+slm	11.315	13.073
+opteron	11.376	10.020
+sandybridge	11.431	9.653
+cooperlake	11.456	
+broadwell	11.487	12.425
+nocona	11.589	11.041
+znver2	11.607	12.142
+bdver4	11.748	10.077
+knm	12.083	12.620
+core-avx-i	12.145	12.197
+athlon64-sse3	12.160	12.505
+goldmont	12.207	10.235
+athlon-fx	12.343	10.965
+goldmont-plus	12.453	12.972
+tremont	12.522	12.257
+atom	12.547	11.662
+cannonlake	12.552	12.512
+cascadelake	12.570	11.415
+knl	12.720	12.663
+bonnell	12.917	11.278
+core-avx2	13.190	12.567
+nano-2000		12.030
+nano		12.092
+nano-x4		12.655
+nano-x2		12.717
+nano-3000		12.723
+nano-1000		12.760
+eden-x4		13.225

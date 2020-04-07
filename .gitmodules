@@ -1,0 +1,3 @@
+[submodule "kaitai/kaitai_struct_cpp_stl_runtime"]
+	path = kaitai/kaitai_struct_cpp_stl_runtime
+	url = https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime
